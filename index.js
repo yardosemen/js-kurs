@@ -1,5 +1,5 @@
 "use strict";
 
-// const category = 'toys';
+const category = 'toys';
 
-// console.log ('https:/someulr.com/' +category);
+console.log ('https:/someulr.com/' +category);
